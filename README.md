@@ -23,3 +23,14 @@ AI-Based Cognitive Gaming & Personal Memory Assistance Platform for Elderly Deme
 22.🚨 Caregiver Alerts – Notifications for SOS, missed important routines, safe-zone exits and other configured events.
 23.📍 Location Monitoring – Current/last known location and configurable safety-zone monitoring.
 24.Personal Memory & Access Control – Caregivers can add, verify, categorize and control access to patient memories, photos and voice recordings.
+## My Contribution
+
+### Cognitive Games Module
+- Developed cognitive games for dementia patients using Flutter/Dart
+- Implemented Memory Match, Sequence Memory, and Sound Memory
+- Integrated games with the backend API
+- Added game-related UI and testing
+- Worked on adaptive/gentle gameplay suitable for elderly users
+
+### My Branch
+`person2-cognitive-games`
